@@ -1,1 +1,1 @@
-# Images for BioPank Model from iGEM UNILA_LatAm
+# Images BioPank Model from iGEM UNILA_LatAm
